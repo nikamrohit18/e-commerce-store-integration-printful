@@ -3,7 +3,6 @@
 ![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3.2-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-Backend-000000?style=for-the-badge&logo=express&logoColor=white)
-![Horizons](https://img.shields.io/badge/Horizons-Integrated_Backend-6366F1?style=for-the-badge)
 
 > A premium ecommerce platform for luxury fashion with a seamless shopping experience.
 
